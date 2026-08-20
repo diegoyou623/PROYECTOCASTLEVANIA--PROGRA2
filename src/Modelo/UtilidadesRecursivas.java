@@ -4,11 +4,7 @@ package Modelo;
 
 import Piezas.Pieza;
 
-/**
- * Utilidades pequeñas para recorrer los arreglos del proyecto sin alterar
- * las reglas del juego. La clase y sus funciones finales cubren los
- * requisitos técnicos de la especificación.
- */
+
 public final class UtilidadesRecursivas {
 
     private static final int TOTAL_CASILLAS = 36;
